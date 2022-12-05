@@ -11,7 +11,7 @@ My coding journey started one year ago while I was studying for my master's. Aft
 
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ I have worked with</h2>
+<h2 style="color: #44AEFB">🛠 Technologies and Tools 🛠</h2>
 <!--div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div -->
@@ -19,22 +19,25 @@ My coding journey started one year ago while I was studying for my master's. Aft
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<div align="center">
+<div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+      <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
   </a>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+      <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
   </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+      <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+      <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img  alt="JWT" height="50px" style="padding-right:10px;" src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png"/>
@@ -73,7 +76,6 @@ My coding journey started one year ago while I was studying for my master's. Aft
   </a>
   </a>
 </div>
-<br>
 <br>
 
 <!-- Statistics -->

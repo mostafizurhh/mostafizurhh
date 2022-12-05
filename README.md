@@ -92,7 +92,7 @@ My coding journey started one year ago while I was studying for my master's. Aft
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center" style="display:flex">
+<div class="stats" align="center" style="display:flex; flex-direction:row">
 
 ![](https://github-readme-stats.vercel.app/api?username=mostafizurhh&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 

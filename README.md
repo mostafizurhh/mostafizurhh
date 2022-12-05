@@ -6,14 +6,9 @@
 <br>
 <br>
 My coding journey started one year ago while I was studying for my master's. After doing a couple of university projects, I got hooked on programming with JS and started an intensive course to learn to code professionally. I love coding because it allows me to work with different project requirements and I can learn new things all the time by fulfilling those requirements! I love working in a team and am used to being a part of a multicultural work environment.
-<br>
-<br>
-<div align="center">
-
-[Email Me](mailto:syedmostafizur.rahman88@gmail.com)
-</div>
 </p>    
 <br>
+
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ I have worked with</h2>

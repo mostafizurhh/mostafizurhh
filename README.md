@@ -2,10 +2,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a Full-Stack web developer with an ambition to become a software engineer. I am energetic and cheerful with a can-do attitude, problem-solving ability, and passion for learning new things. 
-<br>
-<br>
-My coding journey started one year ago while I was studying for my master's. After doing a couple of university projects, I got hooked on programming with JS and started an intensive course to learn to code professionally. I love coding because it allows me to work with different project requirements and I can learn new things all the time by fulfilling those requirements! I love working in a team and am used to being a part of a multicultural work environment.
+    I am a Full-Stack web developer with an ambition to become a Software Engineer. I am energetic and cheerful with a can-do attitude, problem-solving ability, and passion for learning new things. 
 </p>    
 <br>
 
@@ -108,6 +105,9 @@ My coding journey started one year ago while I was studying for my master's. Aft
   <a href="https://www.linkedin.com/in/syed-mostafizur-rahman-91990a94/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
+  <a href="https://www.linkedin.com/in/syed-mostafizur-rahman-91990a94/" target="blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn logo" title="LinkedIn" height="25" />
+  </a>    
   <a href="mailto:syedmostafizur.rahman88@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>

@@ -94,7 +94,7 @@ My coding journey started one year ago while I was studying for my master's. Aft
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Syed Mostafizur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafizurhh&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![🔥 GitHub Stats 🔥](https://github-readme-stats.vercel.app/api?username=mostafizurhh&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mostafizurhh&count_private=true&theme=algolia&border_radius=20)
 

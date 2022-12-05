@@ -65,7 +65,7 @@ My coding journey started one year ago while I was studying for my master's. Aft
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img  alt="SQL" height="50px" style="padding-right:10px;" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"/>
+      <img  alt="SQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
   </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
       <img  alt="Tableau" height="50px" style="padding-right:10px;" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png"/>

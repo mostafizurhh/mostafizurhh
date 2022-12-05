@@ -113,6 +113,4 @@ My coding journey started one year ago while I was studying for my master's. Aft
 
 <br>
 <h2 style="color: #44AEFB"> Profile Visitor </h2>
-<br>
-
 ![](https://komarev.com/ghpvc/?username=mostafizurhh&style=flat-square)

@@ -102,7 +102,7 @@ My coding journey started one year ago while I was studying for my master's. Aft
 <h2 style="color: #44AEFB"> Get in touch </h2>
 <br>
 <!-- https://icons8.com -->
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/syed-mostafizur-rahman-91990a94/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>

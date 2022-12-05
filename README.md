@@ -16,7 +16,7 @@ My coding journey started one year ago while I was studying for my master's. Aft
 <br>
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h2 style="color: #44AEFB">⚙️ I have worked with</h2>
 <!--div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div -->

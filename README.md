@@ -36,6 +36,9 @@ My coding journey started one year ago while I was studying for my master's. Aft
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
   </a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/JSON Web Tokens-282C34?logo=json-web-tokens&logoColor=FFCA28" alt="JSON Web Tokens logo" title="JSON Web Tokens" height="25" />
+  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
   </a>
@@ -57,20 +60,20 @@ My coding journey started one year ago while I was studying for my master's. Aft
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
   </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" />
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoft-sql-server&logoColor=1572B6" alt="Microsoft SQL Server logo" title="CSS3" height="25" />
+      <img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoft-sql-server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" />
   </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img  alt="SQL" height="50px" style="padding-right:10px;" src="https://img.icons8.com/color/512/microsoft-sql-server.png"/>
-  </a>
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-      <img  alt="Tableau" height="50px" style="padding-right:10px;" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png"/>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=E97627" alt="Tableau" title="Tableau" height="25" />
   </a>
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
   </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+      <img src="https://img.shields.io/badge/npm-282C34?logo=npm&logoColor=CB3837" alt="npm logo" title="npm" height="25" />
   </a>
 </div>
 <br>

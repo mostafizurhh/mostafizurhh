@@ -99,7 +99,7 @@ My coding journey started one year ago while I was studying for my master's. Aft
 <!--  End Stats Cards -->
 <br>
 <br>
-<h2 style="color: #44AEFB"> Connect With Me Through </h2>
+<h2 style="color: #44AEFB"> Get in touch </h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -110,3 +110,9 @@ My coding journey started one year ago while I was studying for my master's. Aft
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
+
+<br>
+<h2 style="color: #44AEFB"> Profile Visitor </h2>
+<br>
+
+![](https://komarev.com/ghpvc/?username=mostafizurhh&style=flat-square)

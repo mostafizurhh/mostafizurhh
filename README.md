@@ -83,7 +83,7 @@ My coding journey started one year ago while I was studying for my master's. Aft
 
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<h2 style="color: #44AEFB">🔥 GitHub Stats 🔥</h2>
 
 <!--[stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)-->
 
@@ -94,7 +94,7 @@ My coding journey started one year ago while I was studying for my master's. Aft
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![🔥 GitHub Stats 🔥](https://github-readme-stats.vercel.app/api?username=mostafizurhh&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![](https://github-readme-stats.vercel.app/api?username=mostafizurhh&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mostafizurhh&count_private=true&theme=algolia&border_radius=20)
 

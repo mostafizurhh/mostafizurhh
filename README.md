@@ -102,17 +102,13 @@
 <br>
 <!-- https://icons8.com -->
 <div>
-  <a href="https://www.linkedin.com/in/syed-mostafizur-rahman-91990a94/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a>
   <a href="https://www.linkedin.com/in/syed-mostafizur-rahman-91990a94/" target="blank">  
     <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn logo" title="LinkedIn" height="25" />
   </a>    
   <a href="mailto:syedmostafizur.rahman88@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="25" />
   </a>
 </div>
 
 <h2 style="color: #44AEFB">Visitors </h2>
-
 <img src="https://komarev.com/ghpvc/?username=mostafizurhh&color=blue"/>

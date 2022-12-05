@@ -1,6 +1,5 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Syed Mostafizur Rahman</h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/194530701-85313fde-3a37-40b9-9d82-77a4e41da85a.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a Full-Stack web developer with an ambition to become a software engineer. I am energetic and cheerful with a can-do attitude, problem-solving ability, and passion for learning new things. 

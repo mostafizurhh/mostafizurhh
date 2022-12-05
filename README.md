@@ -64,6 +64,12 @@ My coding journey started one year ago while I was studying for my master's. Aft
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+      <img  alt="SQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg"/>
+  </a>
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+      <img  alt="Tableau" height="50px" style="padding-right:10px;" src="https://www.svgrepo.com/svg/354428/tableau-icon"/>
+  </a>
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>

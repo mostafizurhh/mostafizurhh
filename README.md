@@ -97,9 +97,8 @@
 </div>
 <!--  End Stats Cards -->
 <br>
-<br>
+
 <h2 style="color: #44AEFB"> Get in touch </h2>
-<br>
 <!-- https://icons8.com -->
 <div>
   <a href="https://www.linkedin.com/in/syed-mostafizur-rahman-91990a94/" target="blank">  

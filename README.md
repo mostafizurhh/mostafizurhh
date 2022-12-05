@@ -57,6 +57,9 @@ My coding journey started one year ago while I was studying for my master's. Aft
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
   </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoft-sql-server&logoColor=1572B6" alt="Microsoft SQL Server logo" title="CSS3" height="25" />
+  </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
       <img  alt="SQL" height="50px" style="padding-right:10px;" src="https://img.icons8.com/color/512/microsoft-sql-server.png"/>
   </a>

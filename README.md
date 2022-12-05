@@ -42,7 +42,7 @@ My coding journey started one year ago while I was studying for my master's. Aft
       <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="JWT" height="50px" style="padding-right:10px;" src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png"/>
+      <img  alt="JWT" height="50px" style="padding-right:10px;" src="https://icons8.com/icon/rHpveptSuwDz/json-web-token"/>
   </a>
    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>

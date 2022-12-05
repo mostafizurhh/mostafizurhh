@@ -37,6 +37,15 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
   </a>
+  <a href="https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer">
+   <img src="https://img.shields.io/badge/React Query-282C34?logo=react-query&logoColor=FF4154" alt="React Query logo" title="React Query" height="25" />
+  </a>
+  <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer">
+   <img src="https://img.shields.io/badge/React Router-282C34?logo=react-router&logoColor=CA4245" alt="React Router logo" title="React Router" height="25" />
+  </a>
+  <a href="https://stripe.com/en-pt" target="_blank" rel="noreferrer">
+   <img src="https://img.shields.io/badge/Stripe-282C34?logo=Stripe&logoColor=008CDD" alt="Stripe logo" title="Stripe" height="25" />
+  </a>
    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" />
   </a>

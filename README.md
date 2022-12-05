@@ -68,7 +68,7 @@ My coding journey started one year ago while I was studying for my master's. Aft
       <img  alt="SQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg"/>
   </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-      <img  alt="Tableau" height="50px" style="padding-right:10px;" src="https://gri.jp/wp-content/uploads/2020/07/tableau-additional-function-2.jpg"/>
+      <img  alt="Tableau" height="50px" style="padding-right:10px;" src="file:///Users/mostafiz/Downloads/tableau-icon-svgrepo-com.svg"/>
   </a>
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>

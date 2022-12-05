@@ -111,6 +111,6 @@ My coding journey started one year ago while I was studying for my master's. Aft
   </a>
 </div>
 
-<h2 style="color: #44AEFB"> Profile Visitor </h2>
+<h2 style="color: #44AEFB">Visitors </h2>
 
 <img src="https://komarev.com/ghpvc/?username=mostafizurhh&color=blue"/>

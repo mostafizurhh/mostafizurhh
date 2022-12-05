@@ -92,7 +92,7 @@ My coding journey started one year ago while I was studying for my master's. Aft
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center" style="display:flex; flex-direction:row">
+<div class="stats" align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=mostafizurhh&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
@@ -101,10 +101,10 @@ My coding journey started one year ago while I was studying for my master's. Aft
 
 <div align=center>
   <a href="#" title="mostafizurhh">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizurhh&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizurhh&layout=compact&show_icons=true&theme=algolia&border_radius=20" />
   </a>
   <a href="#" title="mostafizurhh">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=mostafizurhh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=mostafizurhh&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" />
   </a>
 </div>
 <!--  End Stats Cards -->

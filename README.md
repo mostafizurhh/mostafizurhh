@@ -99,13 +99,10 @@ My coding journey started one year ago while I was studying for my master's. Aft
 <!--  End Stats Cards -->
 <br>
 <br>
-<h2 style="color: #44AEFB">👽 Connect Me Through 👽</h2>
+<h2 style="color: #44AEFB"> Connect With Me Through </h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/mostafizur.rahman.58511" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
-  </a>
   <a href="https://www.linkedin.com/in/syed-mostafizur-rahman-91990a94/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>

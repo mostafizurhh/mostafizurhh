@@ -39,9 +39,6 @@ My coding journey started one year ago while I was studying for my master's. Aft
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
   </a>
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-     <img src="https://simpleicons.org/icons/jsonwebtokens.svg?logo=jwt&logoColor=FFCA28" alt="JsonWebToken logo" title="JsonWebToken" height="25"/>
-  </a>
    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" />
   </a>
@@ -54,14 +51,11 @@ My coding journey started one year ago while I was studying for my master's. Aft
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://simpleicons.org/icons/figma.svg?logo=figma&logoColor=007ACC" alt="Figma" title="Figma" height="25" /> 
-  </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+      <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
   </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
       <img  alt="SQL" height="50px" style="padding-right:10px;" src="https://img.icons8.com/color/512/microsoft-sql-server.png"/>
@@ -70,7 +64,7 @@ My coding journey started one year ago while I was studying for my master's. Aft
       <img  alt="Tableau" height="50px" style="padding-right:10px;" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png"/>
   </a>
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+      <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
   </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
       <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>

@@ -68,7 +68,7 @@ My coding journey started one year ago while I was studying for my master's. Aft
       <img  alt="SQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg"/>
   </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-      <img  alt="Tableau" height="50px" style="padding-right:10px;" src="https://www.svgrepo.com/svg/354428/tableau-icon"/>
+      <img  alt="Tableau" height="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354427/tableau.svg"/>
   </a>
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>

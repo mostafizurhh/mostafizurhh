@@ -101,5 +101,3 @@ My coding journey started one year ago while I was studying for my master's. Aft
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizurhh&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
-
-

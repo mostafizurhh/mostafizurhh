@@ -2,7 +2,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a Full-Stack web developer with an ambition to become a Software Engineer. I am energetic and cheerful with a can-do attitude, problem-solving ability, and passion for learning new things. 
+I can develop a fully responsive website by using REST APIs, Firebase Authentication, JWT Authentication, Online Payment System, Vanilla CSS, JavaScript, React, MongoDB, and the most popular CSS frameworks like Tailwind CSS, and BootStrap. 
 </p>    
 
 <!-- Languages and Tools -->

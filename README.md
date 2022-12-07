@@ -67,17 +67,17 @@ I can develop a fully responsive website by using REST APIs, Firebase Authentica
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" />
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/npm-282C34?logo=npm&logoColor=CB3837" alt="npm logo" title="npm" height="25" />
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoft-sql-server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" />
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=E97627" alt="Tableau" title="Tableau" height="25" />
-  </a>
-     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/npm-282C34?logo=npm&logoColor=CB3837" alt="npm logo" title="npm" height="25" />
   </a>
 </div>
 <br>

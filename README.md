@@ -94,7 +94,7 @@ I can develop a fully responsive website by using REST APIs, Firebase Authentica
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
 
-<div align=center>
+<div >
   <a href="#" title="mostafizurhh">
     <img width="378" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizurhh&layout=compact&show_icons=true&theme=algolia&border_radius=20" />
   </a>

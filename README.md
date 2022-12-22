@@ -7,7 +7,7 @@ I can develop a fully responsive website by using REST APIs, Firebase Authentica
 
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">🛠 Technologies and Tools 🛠</h2>
+<h2 style="color: #44AEFB">Technologies and Tools</h2>
 <!--div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div -->  
@@ -84,7 +84,7 @@ I can develop a fully responsive website by using REST APIs, Firebase Authentica
 
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">🔥 GitHub Stats 🔥</h2>
+<h2 style="color: #44AEFB">GitHub Stats</h2>
 
 <!--[stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)-->
 

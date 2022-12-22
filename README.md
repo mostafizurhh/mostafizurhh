@@ -99,7 +99,7 @@ I can develop a fully responsive website by using REST APIs, Firebase Authentica
     <img width="378" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizurhh&layout=compact&show_icons=true&theme=algolia&border_radius=20" />
   </a>
   <a href="#" title="mostafizurhh">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=mostafizurhh&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" />
+    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=mostafizurhh&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" />
   </a>
 </div>
 <br>

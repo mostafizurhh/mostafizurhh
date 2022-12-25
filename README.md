@@ -3,6 +3,8 @@
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 I can develop a fully responsive website by using REST APIs, Firebase Authentication, JWT Authentication, Online Payment System, Vanilla CSS, JavaScript, React, MongoDB, and the most popular CSS frameworks like Tailwind CSS, and BootStrap. 
+
+I am also familiar with Tableau, SQL Server, Linux and Ruby.
 </p>    
 
 <!-- Languages and Tools -->
